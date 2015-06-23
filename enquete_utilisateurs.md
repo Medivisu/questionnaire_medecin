@@ -9,7 +9,7 @@
 
 * Quel système d'exploitation utilisez-vous professionnellement ?
 	* À quel système d'exploitation êtes-vous familiarisé (Windows, Mac OS X, Linux,...)?
-	* Seriez-vous intéressé dans une version mobile d'un logiciel d'imageries médicales?
+	* Seriez-vous intéressé par une version mobile d'un logiciel d'imageries médicales?
 		* Si oui, pourquoi? Pour quelles utilisations?
 
 * Quel logiciel d'imagerie médicale?

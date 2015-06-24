@@ -1,5 +1,9 @@
 ##Enquête utilisateurs 
 
+###Information préliminaire
+
+* Qu'attendez-vous de cette rencontre ? En d'autre terme, pourquoi m'accorder vous votre temps?
+
 ###Information médecin
 
 * Quelle est votre spécialisation?
@@ -8,28 +12,32 @@
 ###Software
 
 * Quel système d'exploitation utilisez-vous professionnellement ?
-	* À quel système d'exploitation êtes-vous familiarisé (Windows, Mac OS X, Linux,...)?
+	* À quel système d'exploitation êtes-vous familiarisé (Windows, Mac OS X, Linux,...) ?
 	* Seriez-vous intéressé par une version mobile d'un logiciel d'imageries médicales?
 		* Si oui, pourquoi? Pour quelles utilisations?
 
-* Quel logiciel d'imagerie médicale?
-	* Si Osirix, demander plus de détails
-	* En êtes-vous content de manière générale (ergonomie, fluidité, fonctionnalité,...)?
-	* Qu'est-ce que vous voudriez voir de plus /modifier?
-	* Est-ce que les images sont distribuées aux patients et sous quelle forme?
-	* Qu'est-ce que ça vous coûte?
+* Quel est le constructeur de logiciel d'imagerie médicale que vous utilisez ?
+	* En êtes-vous content de manière générale (ergonomie, fluidité, fonctionnalité, rapidité d'ouverture des fichiers...) ?
+	* Qu'est-ce qui fonctionne bien ? et pas bien ?
+	* Donnez-moi 3 fonctionnalités qui vous manque ? (vulgarisé)
+		* Vont-elles intéressée d'autres spécialiste ?
+	* Quelle opération exécutez-vous avec votre logiciel?
+		* Pouvez-vous me le montrer ?
+	* Est-ce que les images sont distribuées aux patients et sous quelle forme ?
+	* Savez-vous lire toutes les images apporter par vos patient ?
+	* Qu'est-ce que ça vous coûte ?
 
-* Pouvez-vous facilement transporter des images de votre lieu de travail vers un poste professionnel?
+* Pouvez-vous facilement transporter des images de votre lieu de travail vers un poste professionnel ?
 	* Si oui
-		* Utilisez-vous le même logiciel?
-		* Comment transportez-vous les images?
-	* Sinon, aimeriez-vous le faire?
+		* Utilisez-vous le même logiciel ?
+		* Comment transportez-vous les images ?
+	* Sinon, aimeriez-vous le faire ?
 
-* Seriez-vous intéressé par des profils personnalisables en fonction des spécialisations?
-	* Si oui, qu'est-ce qui doit ressortir comme fonctionnalités en fonction de votre spécialisation?
+* Seriez-vous intéressé par des profils personnalisables en fonction des spécialisations ?
 
-* Seriez-vous prêt à changer de logiciel d'imagerie médicale?
+* Qu'est-ce qu'il faut comme fonctionnalité pour que vous commencer à utiliser ce logiciel ?
+	* Seriez-vous prêt à changer de logiciel d'imagerie médicale ?
 
 ###Aller plus loin
 
-* Seriez-vous prêt à tester nos versions bêta afin de pouvoir en donner un avis critique?
+* Seriez-vous prêt à tester nos versions bêta afin de pouvoir en donner un avis critique ?

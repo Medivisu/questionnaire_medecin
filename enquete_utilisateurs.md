@@ -21,9 +21,10 @@
 	* Qu'est-ce qui fonctionne bien ? et pas bien ?
 	* Donnez-moi 3 fonctionnalités qui vous manque ? (vulgarisé)
 		* Vont-elles intéressée d'autres spécialiste ?
-	* Quelle opération exécutez-vous avec votre logiciel?
+	* Quelles opérations exécutez-vous avec votre logiciel?
 		* Pouvez-vous me le montrer ?
-	* Est-ce que les images sont distribuées aux patients et sous quelle forme ?
+	* Est-ce que les images sont distribuées aux patients ?
+		* Si oui, sous quelle forme?
 	* Savez-vous lire toutes les images apporter par vos patient ?
 	* Qu'est-ce que ça vous coûte ?
 
@@ -35,7 +36,7 @@
 
 * Seriez-vous intéressé par des profils personnalisables en fonction des spécialisations ?
 
-* Qu'est-ce qu'il faut comme fonctionnalité pour que vous commencer à utiliser ce logiciel ?
+* Qu'est-ce qu'il faut comme fonctionnalité pour que vous commencez à utiliser ce logiciel ?
 	* Seriez-vous prêt à changer de logiciel d'imagerie médicale ?
 
 ###Aller plus loin

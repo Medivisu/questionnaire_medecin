@@ -28,7 +28,10 @@
 	* Savez-vous lire toutes les images apporter par vos patient ?
 	* Qu'est-ce que ça vous coûte ?
 
-* Pouvez-vous facilement transporter des images de votre lieu de travail vers un poste professionnel ?
+* Quel est le constructeur de votre PACS ?
+	* Qu'est-ce qui vous coûte ?
+
+* Pouvez-vous facilement transporter des images de votre lieu de travail vers un poste personnel ?
 	* Si oui
 		* Utilisez-vous le même logiciel ?
 		* Comment transportez-vous les images ?
